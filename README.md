@@ -19,7 +19,7 @@ This app processes user-provided text through a multi-stage pipeline: summarizat
 
 🎬 **[Try the Live Demo](https://your-demo-url-here.com)**
 
-![App Demo](./demo.gif)
+![App Demo](https://github.com/atorov/shrd-qb-hack-days-25-agents-fsm/blob/master/public/demo.gif)
 _Animated demonstration of the AI Topic Analyzer in action_
 
 ## Tech Stack
